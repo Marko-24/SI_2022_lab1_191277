@@ -1,5 +1,5 @@
-apple
-orange
-banana
-watermelon
-lemon
+apple x 2
+orange x 3
+banana x 2
+watermelon x 2
+lemon x 4
