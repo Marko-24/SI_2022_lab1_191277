@@ -1,5 +1,6 @@
 apple x 2
 orange x 4
 banana x 2
-watermelon x 2
+carrot x 2
 lemon x 3
+pineapple
