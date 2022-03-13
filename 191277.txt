@@ -1,0 +1,77 @@
++# SI_2022_lab1_191277
++Марко Стојковски 191277
+
+*додавање на име презиме и индекс во README фајлот
+
++apple
++orange
++banana
++watermelon
++lemon
+
+*додавање на 5 ставки во shopping_list фајлот со commit порака: Add 5 items to the shopping list
+
+-apple
+-orange
+-banana
+-watermelon
+-lemon
++apple x 2
++orange x 3
++banana x 2
++watermelon x 2
++lemon x 4
+
+*додавање на количина на ставките во листата со commit порака: Add quantities to the items
+
+*креирање на 2 гранки со имиња: branch1 и branch2
+
+apple x 2
+orange x 3
+banana x 2
+watermelon x 2
+-lemon x 4
++lemon x 3
+
+*менување на количината на 5-тата ставка во branch1 гранката со commit порака: Change quantity of item #5
+
+apple x 2
+-orange x 3
++orange x 4
+banana x 2
+watermelon x 2
+-lemon x 4
++lemon x 3
+
+*менување на количината на 2-рата ставка во master гранката со commit порака: Change quantity of item #2
+
+apple x 2
+-orange x 3
++orange x 4
+banana x 2
+-watermelon x 2
+-lemon x 4
++carrot x 2
++lemon x 3
+
+*менување на името на 4-тата ставка во branch2 гранката со commit порака: Modify item #4
+
+apple x 2
+orange x 4
+banana x 2
+carrot x 2
+-lemon x 3
++lemon x 3
++pineapple
+
+*додавање на 6-та ставка во листата во branch2 гранката со commit порака: Modify item #4 and add item #6
+
+*при merge на master со branch1 не настанува никаков конфликт
+
+*при merge на master со branch2 настанува конфликт и истиот го решавам со merge commit кој ги добива промените и од branch1 и од branch2
+
+
+
+
+
+
